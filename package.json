@@ -1,0 +1,19 @@
+{
+  "name": "hafiz-abdul-sami-asim-app",
+  "version": "1.0.0",
+  "description": "Lectures of Hafiz Abdul Sami Asim - Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -o",
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": [
+    "lectures",
+    "islamic",
+    "hafiz",
+    "quran",
+    "sunnah"
+  ],
+  "author": "",
+  "license": "ISC"
+}

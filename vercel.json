@@ -1,0 +1,7 @@
+{
+  "buildCommand": "",
+  "devCommand": "npx http-server -p 3000",
+  "installCommand": "",
+  "framework": "static",
+  "outputDirectory": "./"
+}
